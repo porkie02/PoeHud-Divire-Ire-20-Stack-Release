@@ -1,0 +1,5 @@
+C:\Users\Dad\Desktop\ScourgeArrowCharges-master\src\Divine_Ire\obj\Debug\Divine_Ire.csprojAssemblyReference.cache
+C:\Users\Dad\Desktop\ScourgeArrowCharges-master\src\Divine_Ire\obj\Debug\Divine_Ire.csproj.CoreCompileInputs.cache
+C:\Users\Dad\Desktop\ScourgeArrowCharges-master\src\Divine_Ire\obj\Debug\Divine_Ire.csproj.CopyComplete
+C:\Users\Dad\Desktop\ScourgeArrowCharges-master\src\Divine_Ire\obj\Debug\Divine_Ire.dll
+C:\Users\Dad\Desktop\ScourgeArrowCharges-master\Divine_Ire.dll
